@@ -9,7 +9,6 @@
           <string>WEB-INF/views/index.jsp</string>
           <string>WEB-INF/views/login.jsp</string>
           <string>WEB-INF/web.xml</string>
-          <string>WEB-INF/classes/.netbeans_automatic_build</string>
           <string>WEB-INF/classes/com/ibm/spring/mvc/controller/LoginController.class</string>
           <string>WEB-INF/lib/spring-core-3.0.6.RELEASE.jar</string>
           <string>WEB-INF/lib/spring-asm-3.0.6.RELEASE.jar</string>
@@ -23,6 +22,12 @@
           <string>WEB-INF/lib/spring-context-support-3.0.6.RELEASE.jar</string>
           <string>WEB-INF/lib/spring-web-3.0.6.RELEASE.jar</string>
           <string>WEB-INF/lib/standard-1.1.2.jar</string>
+          <string>WEB-INF/lib/spring-security-core-3.0.0.RELEASE.jar</string>
+          <string>WEB-INF/lib/spring-tx-3.0.0.RELEASE.jar</string>
+          <string>WEB-INF/lib/aspectjrt-1.6.5.jar</string>
+          <string>WEB-INF/lib/aspectjweaver-1.6.5.jar</string>
+          <string>WEB-INF/lib/spring-security-config-3.0.0.RELEASE.jar</string>
+          <string>WEB-INF/lib/spring-security-web-3.0.0.RELEASE.jar</string>
         </pathsSet>
       </path-set>
     </entry>
